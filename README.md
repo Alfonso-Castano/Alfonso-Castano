@@ -12,15 +12,14 @@ class Alfonso:
         }
         self.code=["C++","python","JavaScript","CSS", "HTML"]
         self.tools=["React","VS Code", "Git"]
-        self.interest=("Problem Solving", "Economics", "Interrnational Relations", "Cooking")
+        self.interest=("Problem Solving", "Economics", "International Relations", "Cooking")
         
         
 me = Alfonso()
 ```
  
 ### My Github Stats
-
-![](https://komarev.com/ghpvc/?username=RounakNeogy&color=blueviolet)
+[![Alfonso's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alfonso-Castano)](https://github.com/Alfonso-Castano/github-readme-stats)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&layout=compact&theme=gotham" alt="Rounak's GitHub Stats" />
 
