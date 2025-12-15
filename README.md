@@ -19,8 +19,8 @@ me = Alfonso()
 ```
  
 ### My Github Stats
-[![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfonso-Castano)](https://github.com/Alfonso-Castano/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Alfonso-Castano&color=blueviolet)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&layout=compact&theme=gotham" alt="Rounak's GitHub Stats" />
 
