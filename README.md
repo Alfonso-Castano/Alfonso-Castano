@@ -3,18 +3,19 @@
 ## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
 ### About me!
 ```python
-class Rounak:
+class Alfonso:
     def __init__(self):
         self.info={
-            company: "RMGX Technologies",
-            status: "Software Developer - 1",
+            Education: "University of Florida",
+            Major: "Computer Science",
+            Minor: "Economics",
         }
-        self.code=["Java","C++","python","JavaScript","MySQL"]
-        self.tools=["SpringBoot","React","Angular","Redux","JUnit","Mokito","Flask"]
-        self.interest=("Problem Solving","Chess")
+        self.code=["C++","python","JavaScript","CSS", "HTML"]
+        self.tools=["React","VS Code", "Git"]
+        self.interest=("Problem Solving", "Economics", "Interrnational Relations", "Cooking")
         
         
-me = Rounak()
+me = Alfonso()
 ```
  
 ### My Github Stats
