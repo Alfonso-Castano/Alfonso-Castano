@@ -33,11 +33,8 @@ me = Alfonso()
 <a href="https://github.com/Alfonso-Castano/Alfonso-Castano">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfonso-Castano&show_icons=true&theme=gotham" alt="Alfonso's GitHub Stats">
 </a>
-<a href="https://github.com/Alfonso-Castano/Alfonso-Castano">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfonso-Castano&show_icons=true&theme=gotham" alt="Alfonso's GitHub Stats">
-</a>
 <img align='left' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <br/>
-<a href="https://www.linkedin.com/in/rounak-neogy-9a5518194/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
+<a href="https://www.linkedin.com/in/alfonso-castano-763309399/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
 <br/>
 <em><b>You can also follow me on Github</b> :)</em>
