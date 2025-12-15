@@ -1,23 +1,42 @@
-# Hi there 👋
+![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png)
 
-## I'm Alfonso Castnao
-[![Twitter Badge](https://img.shields.io/badge/-Pranjal_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Mr_Guptajii)](https://twitter.com/Mr_Guptajii)  [![Linkedin Badge](https://img.shields.io/badge/-Pranjal_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-guptaji//)](https://www.linkedin.com/in/mr-guptaji/) [![Gmail Badge](https://img.shields.io/badge/-pranjalgupta362@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalgupta362@gmail.com)](mailto:pranjalgupta362@gmail.com)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About 📌
+## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
+### About me!
+```python
+class Rounak:
+    def __init__(self):
+        self.info={
+            company: "RMGX Technologies",
+            status: "Software Developer - 1",
+        }
+        self.code=["Java","C++","python","JavaScript","MySQL"]
+        self.tools=["SpringBoot","React","Angular","Redux","JUnit","Mokito","Flask"]
+        self.interest=("Problem Solving","Chess")
+        
+        
+me = Rounak()
+```
+ 
+### My Github Stats
 
-### ✔  **Domain :** Full-Stack Web Development 💻 | Machine Learning 🤖
-### ✔  **Skills :** Javascript, Python, PHP, MySQL, C++, Java
-### ✔  **Development Learning:** React, Node.js, Next.js, Material UI, React Native, Bootstrap4
-### ✔  **Hobbies :** Swimming 🏊‍♂️, 8 Ball Pool 🎱, Badminton 🏸, Music 🎧
+![](https://komarev.com/ghpvc/?username=RounakNeogy&color=blueviolet)
 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&layout=compact&theme=gotham" alt="Rounak's GitHub Stats" />
 
-## Contributing to Open-Source 🔥
-
-<p align="left">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=pranjal36&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=dark_dimmed" />
-</p>
-
-<p align="left">
-  <img alt="Pranjal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjal36&show_icons=true&theme=radical">
-</p>
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RounakNeogy&show_icons=true&theme=tokyonight_duo" alt="Rounak's GitHub Stats"></p> -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=RounakNeogy&theme=react-dark">
+ -->
+<a href="https://github.com/RounakNeogy/RounakNeogy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats" />
+</a>
+<a href="https://github.com/RounakNeogy/RounakNeogy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats">
+</a>
+<a href="https://github.com/RounakNeogy/RounakNeogy">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats">
+</a>
+<img align='left' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br/>
+<a href="https://www.linkedin.com/in/rounak-neogy-9a5518194/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
+<br/>
+<em><b>You can also follow me on Github</b> :)</em>
