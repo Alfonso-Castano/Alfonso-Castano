@@ -1,4 +1,4 @@
-![Banner](Github Cat Banner.jpg)
+![Banner](images/CatBanner.jpg)
 
 ## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
 ### About me!
