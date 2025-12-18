@@ -38,3 +38,7 @@ me = Alfonso()
 <a href="https://www.linkedin.com/in/alfonso-castano-763309399/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
 <br/>
 <em><b>You can also follow me on Github</b> :)</em>
+
+---
+
+<img src="https://imgur.com/rilHVxA.png"/> 
