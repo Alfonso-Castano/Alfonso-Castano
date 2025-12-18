@@ -20,7 +20,7 @@ me = Alfonso()
  
 ### My Github Stats
 
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/?username=Alfonso-Castano&color=blue)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&layout=compact&theme=gotham" alt="Rounak's GitHub Stats" />
 
