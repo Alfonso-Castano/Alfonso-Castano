@@ -1,44 +1,19 @@
 ![Banner](images/ShrimpTempCatBanner.jpg)
 
-## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
-### About me!
-```python
-class Alfonso:
-    def __init__(self):
-        self.info={
-            Education: "University of Florida",
-            Major: "Computer Science",
-            Minor: "Economics",
-        }
-        self.code=["C++","python","JavaScript","CSS", "HTML"]
-        self.tools=["React","VS Code", "Git"]
-        self.interest=("Problem Solving", "Economics", "International Relations", "Cooking")
-        
-        
-me = Alfonso()
-```
- 
-### My Github Stats
+# Hi, I'm Alfonso
 
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2026%20mins-orange)
+I study Computer Science and Statistics at the University of Florida (graduating May 2029), and I'm looking for a **Summer 2027 internship in applied AI or software engineering**.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=RounakNeogy&show_icons=true&theme=gotham" alt="Rounak's GitHub Stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RounakNeogy&layout=compact&theme=gotham" alt="Rounak's GitHub Stats" />
+This past summer I was an AI Engineer Intern at Silversea Media in Singapore. As the sole engineer, I built an LLM pipeline that turns 152 web sources into scored market reports, and an LLM-as-judge harness to fact-check them. Grounding fixes took report quality from 12/25 to 21/25 with zero hallucinated claims.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RounakNeogy&show_icons=true&theme=tokyonight_duo" alt="Rounak's GitHub Stats"></p> -->
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=RounakNeogy&theme=react-dark">
- -->
-<a href="https://github.com/Alfonso-Castano/Alfonso-Castano">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonso-Castano&&show_icons=true&theme=slateorange" alt="Alfonso's GitHub Stats" />
-</a>
-<a href="https://github.com/Alfonso-Castano/Alfonso-Castano">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfonso-Castano&show_icons=true&theme=slateorange" alt="Alfonso's GitHub Stats">
-</a>
-<img align='left' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<br/>
-<a href="https://www.linkedin.com/in/alfonso-castano-763309399/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
-<br/>
-<em><b>You can also follow me on Github</b> :)</em>
+## Projects
 
----
+- **[ML Financial Risk Analyzer](https://github.com/Alfonso-Castano/ML-Financial-Risk-System)**: a PyTorch MLP trained on 3,000 synthetic financial profiles. I caught label leakage behind a too-good 0.998 ROC-AUC and reworked the features and data to 0.94 AUC and 0.80 F1.
+- **[StackWise](https://github.com/Alfonso-Castano/Supplement-Manager)**: an iOS app that flags supplement–medication interactions, built entirely through agentic development with Claude Code and released to TestFlight.
+- **[Claude Code workflow kit](https://github.com/Alfonso-Castano/claude-workflow)**: the skills, subagents, and hook I use to plan, build, and verify projects with Claude Code.
 
-<img src="https://imgur.com/rilHVxA.png"/> 
+## Find me
+
+- Website: [alfonso-castano.github.io](https://alfonso-castano.github.io/)
+- LinkedIn: [linkedin.com/in/alfonso-castano-uf](https://www.linkedin.com/in/alfonso-castano-uf/)
+- Email: alfonsocastano486 [at] gmail.com
