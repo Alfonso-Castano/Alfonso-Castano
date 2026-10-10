@@ -2,7 +2,7 @@
 
 # Hi, I'm Alfonso
 
-I study Computer Science and Statistics at the University of Florida (graduating May 2029), and I'm looking for a **Summer 2027 internship in applied AI or software engineering**.
+I study Computer Science and Statistics at the University of Florida (graduating May 2029).
 
 This past summer I was an AI Engineer Intern at Silversea Media in Singapore. As the sole engineer, I built an LLM pipeline that turns 152 web sources into scored market reports, and an LLM-as-judge harness to fact-check them. Grounding fixes took report quality from 12/25 to 21/25 with zero hallucinated claims.
 
